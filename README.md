@@ -1,3 +1,4 @@
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">I am a passionate, highly motivated young Machine Learning Practitioner, passionate about developing Machine Learning Models to solve complex business problems.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
